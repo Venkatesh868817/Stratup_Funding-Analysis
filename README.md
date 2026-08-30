@@ -2,6 +2,12 @@
 
 An interactive **Data Analytics Capstone Project** developed using **Python, Dash, Plotly, and Pandas**. This dashboard provides comprehensive insights into startup funding trends, startup performance, and investor activities through interactive visualizations and dynamic filters.
 
+## 🌐 Live Demo
+
+🚀 **[View Live Dashboard](https://stratup-funding-analysis.onrender.com/)**
+
+🟢 **Status: Deployed & Live on Render**
+
 ---
 
 ## 📌 Project Overview
@@ -14,13 +20,13 @@ The dashboard enables stakeholders, investors, and analysts to make data-driven 
 
 ## 🎯 Project Objectives
 
-- Analyze startup funding trends over time.
-- Identify top-funded startups and industries.
-- Compare startup financial performance.
-- Analyze investor contributions.
-- Detect funding outliers.
-- Provide interactive business intelligence dashboards.
-- Enable dynamic filtering for customized analysis.
+* Analyze startup funding trends over time.
+* Identify top-funded startups and industries.
+* Compare startup financial performance.
+* Analyze investor contributions.
+* Detect funding outliers.
+* Provide interactive business intelligence dashboards.
+* Enable dynamic filtering for customized analysis.
 
 ---
 
@@ -32,15 +38,15 @@ Provides an overview of startup funding and investment activities.
 
 ### Features
 
-- 💰 Total Funding KPI
-- 🏢 Total Startups
-- 📈 Average Funding
-- 🤝 Total Investors
-- 📅 Funding Trend Over Time
-- 🏭 Top Industries by Funding
-- 📍 Funding by City
-- 💵 Investment Type Distribution
-- 📊 Dynamic Business Insights
+* 💰 Total Funding KPI
+* 🏢 Total Startups
+* 📈 Average Funding
+* 🤝 Total Investors
+* 📅 Funding Trend Over Time
+* 🏭 Top Industries by Funding
+* 📍 Funding by City
+* 💵 Investment Type Distribution
+* 📊 Dynamic Business Insights
 
 ---
 
@@ -50,11 +56,11 @@ Analyzes operational and financial performance of startups.
 
 ### Visualizations
 
-- Top 10 Funded Startups
-- Revenue vs Burn Rate
-- Customer Lifetime Value (CLV) vs Customer Acquisition Cost (CAC)
-- Active Users vs Revenue Growth
-- Profit Margin by Industry
+* Top 10 Funded Startups
+* Revenue vs Burn Rate
+* Customer Lifetime Value (CLV) vs Customer Acquisition Cost (CAC)
+* Active Users vs Revenue Growth
+* Profit Margin by Industry
 
 ---
 
@@ -64,36 +70,38 @@ Provides deeper business intelligence using analytical visualizations.
 
 ### Visualizations
 
-- Growth vs Profitability
-- Funding Outlier Detection
-- Funding by Investment Stage
-- Top Investors by Funding
+* Growth vs Profitability
+* Funding Outlier Detection
+* Funding by Investment Stage
+* Top Investors by Funding
 
 ---
 
 # ✨ Key Features
 
-- Interactive Dashboard
-- Global Filters
-- Multiple Dashboard Views
-- KPI Cards
-- Dynamic Charts
-- Interactive Plotly Visualizations
-- Business Insights Panel
-- Responsive Dashboard Layout
+* 🎛️ Interactive Dashboard
+* 🌍 Global Filters
+* 📊 Multiple Dashboard Views
+* 💰 KPI Cards
+* 📈 Dynamic Charts
+* 📉 Interactive Plotly Visualizations
+* 💡 Business Insights Panel
+* 📱 Responsive Dashboard Layout
+* ☁️ Cloud Deployment using Render
 
 ---
 
 # 🛠️ Technologies Used
 
-| Technology | Purpose |
-|------------|----------|
-| Python | Programming Language |
-| Pandas | Data Cleaning & Analysis |
-| Plotly | Interactive Data Visualization |
-| Dash | Dashboard Development |
-| OpenPyXL | Reading Excel Dataset |
-| HTML & CSS | Dashboard Styling |
+| Technology | Purpose                        |
+| ---------- | ------------------------------ |
+| Python     | Programming Language           |
+| Pandas     | Data Cleaning & Analysis       |
+| Plotly     | Interactive Data Visualization |
+| Dash       | Dashboard Development          |
+| OpenPyXL   | Reading Excel Dataset          |
+| HTML & CSS | Dashboard Styling              |
+| Render     | Cloud Deployment               |
 
 ---
 
@@ -118,41 +126,41 @@ Startup-Funding-Dashboard/
 
 The dataset contains startup investment information including:
 
-- Startup Name
-- Industry
-- City
-- Year
-- Investment Type
-- Funding Amount (USD)
-- Investor Name
-- Monthly Revenue
-- Annual Burn Rate
-- Customer Acquisition Cost (CAC)
-- Customer Lifetime Value (CLV)
-- Active Users
-- Revenue Growth Rate (%)
-- Profit Margin (%)
+* Startup Name
+* Industry
+* City
+* Year
+* Investment Type
+* Funding Amount (USD)
+* Investor Name
+* Monthly Revenue
+* Annual Burn Rate
+* Customer Acquisition Cost (CAC)
+* Customer Lifetime Value (CLV)
+* Active Users
+* Revenue Growth Rate (%)
+* Profit Margin (%)
 
 ---
 
 # 📊 Key Performance Indicators (KPIs)
 
-- 💰 Total Funding
-- 🏢 Number of Startups
-- 📈 Average Funding
-- 🤝 Number of Investors
+* 💰 Total Funding
+* 🏢 Number of Startups
+* 📈 Average Funding
+* 🤝 Number of Investors
 
 ---
 
 # 📈 Charts Used
 
-- Line Chart
-- Bar Chart
-- Horizontal Bar Chart
-- Donut Chart
-- Pie Chart
-- Scatter Plot
-- Box Plot
+* Line Chart
+* Bar Chart
+* Horizontal Bar Chart
+* Donut Chart
+* Pie Chart
+* Scatter Plot
+* Box Plot
 
 ---
 
@@ -160,14 +168,14 @@ The dataset contains startup investment information including:
 
 The dashboard answers several important business questions:
 
-- Which city receives the highest startup funding?
-- Which industries attract the most investments?
-- Who are the top investors?
-- Which startups receive the highest funding?
-- How does revenue compare with burn rate?
-- Which startups have better profitability?
-- Which investment stage attracts the highest funding?
-- Are there any funding outliers?
+* Which city receives the highest startup funding?
+* Which industries attract the most investments?
+* Who are the top investors?
+* Which startups receive the highest funding?
+* How does revenue compare with burn rate?
+* Which startups have better profitability?
+* Which investment stage attracts the highest funding?
+* Are there any funding outliers?
 
 ---
 
@@ -176,13 +184,13 @@ The dashboard answers several important business questions:
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Startup-Funding-Dashboard.git
+git clone https://github.com/Venkatesh868817/Stratup_Funding-Analysis.git
 ```
 
 ## Navigate to the Project Folder
 
 ```bash
-cd Startup-Funding-Dashboard
+cd Stratup_Funding-Analysis
 ```
 
 ## Install Required Packages
@@ -199,15 +207,13 @@ python unified_startup_dashboard.py
 
 The application will start at:
 
-```
+```text
 http://127.0.0.1:8056/
 ```
 
 ---
 
 # 📦 Requirements
-
-Create a `requirements.txt` file with the following dependencies:
 
 ```text
 dash>=2.17.0
@@ -216,21 +222,39 @@ pandas>=2.2.0
 openpyxl>=3.1.0
 ```
 
-Or install them directly:
+Install them using:
 
 ```bash
-pip install dash plotly pandas openpyxl
+pip install -r requirements.txt
 ```
+
+---
+
+# ☁️ Deployment
+
+The **Startup Funding Analysis Dashboard has been successfully deployed on Render**.
+
+### Deployment Platform
+
+**Render**
+
+### Deployment Status
+
+🟢 **Live**
+
+### Live Application
+
+🚀 **[Open Startup Funding Analysis Dashboard](https://stratup-funding-analysis.onrender.com/)**
+
+The application is hosted online and can be accessed directly through a web browser without requiring users to set up the Python environment locally.
 
 ---
 
 # 📸 Dashboard Screenshots
 
-Add screenshots inside the `screenshots` folder.
+Add screenshots inside the `screenshots` folder:
 
-Example:
-
-```
+```text
 screenshots/
 ├── executive_dashboard.png
 ├── performance_dashboard.png
@@ -243,29 +267,31 @@ screenshots/
 
 This project demonstrates practical knowledge in:
 
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Interactive Dashboard Development
-- Business Intelligence
-- Data Visualization
-- KPI Design
-- Python Programming
-- Dash Framework
-- Plotly Visualization
-- Analytical Storytelling
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Interactive Dashboard Development
+* Business Intelligence
+* Data Visualization
+* KPI Design
+* Python Programming
+* Dash Framework
+* Plotly Visualization
+* Analytical Storytelling
+* Cloud Deployment
 
 ---
 
 # 🚀 Future Enhancements
 
-- User Authentication
-- Dark Mode
-- Machine Learning Predictions
-- Forecasting Startup Funding
-- Database Integration
-- Cloud Deployment (AWS / Azure / Render)
-- Export Reports (PDF & Excel)
-- Mobile Responsive Design
+* User Authentication
+* Dark Mode
+* Machine Learning Predictions
+* Startup Funding Forecasting
+* Database Integration
+* Export Reports (PDF & Excel)
+* Advanced Investor Analytics
+* Automated Data Updates
+* Improved Mobile Responsiveness
 
 ---
 
@@ -277,16 +303,30 @@ This project demonstrates practical knowledge in:
 
 ### Skills
 
-- Python
-- SQL
-- Power BI
-- Tableau
-- Pandas
-- Plotly
-- Dash
-- Excel
-- Data Analysis
-- Data Visualization
+* Python
+* SQL
+* Power BI
+* Tableau
+* Pandas
+* Plotly
+* Dash
+* Excel
+* Data Analysis
+* Data Visualization
+* Cloud Deployment
 
 ---
 
+# ⭐ Project Status
+
+🟢 **Successfully Deployed & Live on Render**
+
+### 🔗 Live Project
+
+**https://stratup-funding-analysis.onrender.com/**
+
+### 📂 GitHub Repository
+
+**https://github.com/Venkatesh868817/Stratup_Funding-Analysis**
+
+If you find this project useful, consider giving the repository a ⭐ on GitHub.
