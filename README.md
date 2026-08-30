@@ -2,9 +2,7 @@
 
 An interactive **Data Analytics Capstone Project** developed using **Python, Dash, Plotly, and Pandas**. This dashboard provides comprehensive insights into startup funding trends, startup performance, and investor activities through interactive visualizations and dynamic filters.
 
-## 🌐 Live Demo
 
-🚀 **[View Live Dashboard](https://stratup-funding-analysis.onrender.com/)**
 
 🟢 **Status: Deployed & Live on Render**
 
@@ -321,9 +319,7 @@ This project demonstrates practical knowledge in:
 
 🟢 **Successfully Deployed & Live on Render**
 
-### 🔗 Live Project
 
-**https://stratup-funding-analysis.onrender.com/**
 
 ### 📂 GitHub Repository
 
